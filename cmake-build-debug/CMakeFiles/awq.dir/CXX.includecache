@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shashwat/Documents/CPL/OJ/awq.cpp
+iostream
+-
+vector
+-
+utility
+-
+string
+-
+algorithm
+-
+

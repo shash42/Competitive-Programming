@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+const int N=1e5+5;
+int n, m
+int main()
+{
+	int t;
+	cin >> t;
+	while(t--)
+	{
+
+	}
+}

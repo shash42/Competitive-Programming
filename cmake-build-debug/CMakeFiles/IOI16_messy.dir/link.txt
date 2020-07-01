@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O0 -g -Wall -pedantic -fsanitize=address -fsanitize=undefined -g   CMakeFiles/IOI16_messy.dir/Upsolve/IOI16_messy.cpp.o  -o IOI16_messy 

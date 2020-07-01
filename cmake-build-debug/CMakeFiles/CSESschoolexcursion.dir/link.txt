@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O0 -g -Wall -pedantic -fsanitize=address -fsanitize=undefined -g   CMakeFiles/CSESschoolexcursion.dir/Upsolve/CSESschoolexcursion.cpp.o  -o CSESschoolexcursion 

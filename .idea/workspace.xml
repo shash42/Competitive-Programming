@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CPL" targetName="1370E" />
+      <config projectName="CPL" targetName="C" />
+      <config projectName="CPL" targetName="1369E" />
+      <config projectName="CPL" targetName="B" />
+      <config projectName="CPL" targetName="A" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5797a60-43e8-4aa3-8043-fa192f261ece" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aff2E1LimQEVeMi9xLaXjX1B8F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GSOCApertium2020" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="CMake Application.1369E">
+    <configuration name="1369E" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPL" TARGET_NAME="1369E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPL" RUN_TARGET_NAME="1369E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1370E" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPL" TARGET_NAME="1370E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPL" RUN_TARGET_NAME="1370E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPL" TARGET_NAME="A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPL" RUN_TARGET_NAME="A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPL" TARGET_NAME="B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPL" RUN_TARGET_NAME="B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPL" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPL" RUN_TARGET_NAME="C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.1369E" />
+      <item itemvalue="CMake Application.1370E" />
+      <item itemvalue="CMake Application.A" />
+      <item itemvalue="CMake Application.B" />
+      <item itemvalue="CMake Application.C" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5797a60-43e8-4aa3-8043-fa192f261ece" name="Default Changelist" comment="" />
+      <created>1587131359505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587131359505</updated>
+      <workItem from="1587131360656" duration="8740000" />
+      <workItem from="1587147386263" duration="62000" />
+      <workItem from="1587311607253" duration="11626000" />
+      <workItem from="1587385070568" duration="18092000" />
+      <workItem from="1587457503020" duration="37908000" />
+      <workItem from="1587655374569" duration="13262000" />
+      <workItem from="1587726125638" duration="12146000" />
+      <workItem from="1587910925216" duration="7275000" />
+      <workItem from="1588006575626" duration="5606000" />
+      <workItem from="1588342547906" duration="17248000" />
+      <workItem from="1588409102221" duration="8789000" />
+      <workItem from="1588698293027" duration="9830000" />
+      <workItem from="1588773093755" duration="5895000" />
+      <workItem from="1588964949280" duration="7530000" />
+      <workItem from="1589056538964" duration="8118000" />
+      <workItem from="1589124656555" duration="9337000" />
+      <workItem from="1589286549435" duration="10109000" />
+      <workItem from="1589460244608" duration="3860000" />
+      <workItem from="1589563396561" duration="7985000" />
+      <workItem from="1589626585563" duration="19663000" />
+      <workItem from="1589705169175" duration="24282000" />
+      <workItem from="1589997529524" duration="6698000" />
+      <workItem from="1590059777451" duration="8469000" />
+      <workItem from="1590233058933" duration="3863000" />
+      <workItem from="1590500678789" duration="9489000" />
+      <workItem from="1590581407970" duration="753000" />
+      <workItem from="1590583504547" duration="4902000" />
+      <workItem from="1590672704725" duration="1776000" />
+      <workItem from="1590676686265" duration="8911000" />
+      <workItem from="1590737242767" duration="759000" />
+      <workItem from="1590839883801" duration="2986000" />
+      <workItem from="1590934482510" duration="9890000" />
+      <workItem from="1591014683526" duration="3645000" />
+      <workItem from="1591279605740" duration="14728000" />
+      <workItem from="1591434801089" duration="203000" />
+      <workItem from="1591435070489" duration="8926000" />
+      <workItem from="1591528190595" duration="104000" />
+      <workItem from="1591528325413" duration="24000" />
+      <workItem from="1591886043830" duration="5736000" />
+      <workItem from="1592037430087" duration="20889000" />
+      <workItem from="1592129160156" duration="361000" />
+      <workItem from="1592653594905" duration="6463000" />
+      <workItem from="1592662960159" duration="3469000" />
+      <workItem from="1592902084677" duration="23496000" />
+      <workItem from="1592995472919" duration="4392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="128" width="1806" height="786" key="#Live_Templates" timestamp="1587143214876">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="114" y="128" width="1806" height="786" key="#Live_Templates/67.27.1853.1053@67.27.1853.1053" timestamp="1587143214876" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588343521454">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588343521454" />
+    <state x="839" y="426" width="699" height="463" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1587131808887">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="839" y="426" width="699" height="463" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587131808887" />
+    <state x="691" y="354" width="594" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592905949751">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="691" y="354" width="594" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1592905949751" />
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588343509373">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588343509373" />
+    <state x="1185" y="285" key="#xdebugger.evaluate" timestamp="1592659887842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1185" y="285" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1592659887842" />
+    <state width="432" height="506" key="DebuggerActiveHint" timestamp="1587733582064">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="432" height="506" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1587733582064" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593018036558">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593018036558" />
+    <state width="926" height="258" key="GridCell.Tab.0.bottom" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.0.center" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.0.left" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.0.right" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.1.bottom" timestamp="1593018038005">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038005" />
+    <state width="926" height="258" key="GridCell.Tab.1.center" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.1.left" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.1.right" timestamp="1593018038004">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038004" />
+    <state width="926" height="258" key="GridCell.Tab.2.bottom" timestamp="1593018038005">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038005" />
+    <state width="926" height="258" key="GridCell.Tab.2.center" timestamp="1593018038005">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038005" />
+    <state width="926" height="258" key="GridCell.Tab.2.left" timestamp="1593018038005">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038005" />
+    <state width="926" height="258" key="GridCell.Tab.2.right" timestamp="1593018038005">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="258" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593018038005" />
+    <state x="482" y="188" key="SettingsEditor" timestamp="1587142416429">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1587142416429" />
+    <state x="1148" y="251" width="762" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588965245448">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1148" y="251" width="762" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588965245448" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1592930700181">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1592930700181" />
+    <state x="594" y="381" key="save.file.as.template.dialog" timestamp="1587138639779">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="594" y="381" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587138639779" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1592054865447">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1592054865447" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1336/C.cpp</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1336/C.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/ABL.cpp</url>
+          <line>118</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/ABL.cpp</url>
+          <line>113</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <condition expression="b[0] == 82" language="ObjectiveC" />
+          <url>file://$PROJECT_DIR$/OJ/TOPOL.cpp</url>
+          <line>86</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/pen.cpp</url>
+          <line>87</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/awq.cpp</url>
+          <line>168</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/AWH.cpp</url>
+          <line>138</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/AWH.cpp</url>
+          <line>127</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/hmo.cpp</url>
+          <line>146</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/hmo.cpp</url>
+          <line>141</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/OJ/hmo.cpp</url>
+          <line>128</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/EdEmashup/A.cpp</url>
+          <line>71</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/EdEmashup/A.cpp</url>
+          <line>88</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1348/D.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/DIV1CVirtual1/SergeySubway.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/DIV1CVirtual1/Hills.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/GCJ2019R2/C.cpp</url>
+          <line>96</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/GCJ2018R2/C.cpp</url>
+          <line>76</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1350/C.cpp</url>
+          <line>80</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/GCJ2017R2/A.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/GCJ2017R2/A.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1355/D.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Upsolve/A.cpp</url>
+          <line>72</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Atcoder/Tokio Marine/C.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CF/1364/C.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <condition expression="i==2 &amp;&amp; j==1 &amp;&amp; k==2" language="ObjectiveC" />
+          <url>file://$PROJECT_DIR$/Atcoder/AGC046/C.cpp</url>
+          <line>58</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O0 -g -Wall -pedantic -fsanitize=address -fsanitize=undefined -g   CMakeFiles/A.dir/Upsolve/ASC_06/A.cpp.o  -o A 

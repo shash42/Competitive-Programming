@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O2 -Wall -g   CMakeFiles/C2.dir/CF/1336/C2.cpp.o  -o C2 

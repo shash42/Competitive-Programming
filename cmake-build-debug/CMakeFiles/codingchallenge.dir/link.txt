@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O0 -g -Wall -pedantic -fsanitize=address -fsanitize=undefined -g   CMakeFiles/codingchallenge.dir/home/shashwat/Documents/GSOCApertium2020/Main/CodingChallenge/codingchallenge.cpp.o  -o codingchallenge 
